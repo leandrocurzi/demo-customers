@@ -16,7 +16,8 @@
     "url": "https://github.com/leandrocurzi/demo-customers/issues"
   },
   "homepage": "https://github.com/leandrocurzi/demo-customers#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "easy-logger": "0.0.5",
     "gulp": "^3.9.1",
     "mathjs": "^3.20.1"

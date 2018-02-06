@@ -1,4 +1,4 @@
 let Customer = require("./index");
 
-let mockData = Customer.getCustomer("b");
+let mockData = Customer.get("b");
 console.log(mockData);

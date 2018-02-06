@@ -1,7 +1,7 @@
 let math = require("mathjs")
 
 class Customer{
-    static getCustomer(id){
+    static get(id){
         if(!id || id.trim().length == 0) return null;
 
         return {
