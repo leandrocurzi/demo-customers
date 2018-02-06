@@ -1,0 +1,24 @@
+{
+  "name": "pom-test-service-customer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrocurzi/demo-customers.git"
+  },
+  "author": "Leandro Curzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrocurzi/demo-customers/issues"
+  },
+  "homepage": "https://github.com/leandrocurzi/demo-customers#readme",
+  "devDependencies": {
+    "easy-logger": "0.0.5",
+    "gulp": "^3.9.1",
+    "mathjs": "^3.20.1"
+  }
+}
